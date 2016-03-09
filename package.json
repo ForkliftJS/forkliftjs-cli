@@ -1,6 +1,6 @@
 {
   "name": "forkliftjs-cli",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "ForkliftJS command line interface",
   "keywords": [],
   "dependencies": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nvanmmeurs/tooling.git"
+    "url": "git+https://github.com/forkliftjs/forkliftjs-cli.git"
   },
   "author": "Nicky van Meurs <nicky.van.meurs@just-bi.nl>",
   "license": "MIT"

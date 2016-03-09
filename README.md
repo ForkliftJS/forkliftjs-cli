@@ -1,5 +1,5 @@
-![ForkliftJS](https://github.com/ForkliftJS/docs/raw/master/images/logos/logo.png)
-# ForkliftJS CLI
+<a href="https://github.com/forkliftjs"><img width="192" height="192" src="https://github.com/ForkliftJS/docs/raw/master/images/logos/logo.png" alt="ForkliftJS" /></a>
+# CLI
 
 ## Usage instructions
 * Install ForkliftJS CLI globally `npm install -g forkliftjs-cli`
@@ -9,5 +9,4 @@
 Feel free to ask questions on our Gitter channel!
 
 ## Contributors
-![nvanmeurs](https://github.com/ForkliftJS/docs/raw/master/images/contributors/nvanmeurs.png)
-Nicky van Meurs \<nicky.van.meurs@just-bi.nl\> (@nvanmeurs)
+<a href="https://github.com/nvanmeurs"><img width="96" height="96" src="https://github.com/ForkliftJS/docs/raw/master/images/contributors/nvanmeurs.png" alt="nvanmeurs" /></a>
